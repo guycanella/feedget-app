@@ -2,7 +2,7 @@
 # Feedget App (Mobile)
 
 <p align="center">
-	![feedget image](https://github.com/guycanella/feedget-app/tree/master/assets/feedget.png?raw=true)
+	![feedget image](./assets/feedget.png)
 </p>
 
 ## Description
