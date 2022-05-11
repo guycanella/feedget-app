@@ -1,9 +1,7 @@
 
 # Feedget App (Mobile)
 
-<p align="center">
-	[feedget image](assets/feedget.png)
-</p>
+[feedget image](assets/feedget.png)
 
 ## Description
 
