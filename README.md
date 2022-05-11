@@ -1,7 +1,7 @@
 
 # Feedget App (Mobile)
 
-[feedget image](assets/feedget.png)
+![feedget image](assets/feedget.png)
 
 ## Description
 
