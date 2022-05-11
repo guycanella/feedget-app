@@ -2,7 +2,7 @@
 # Feedget App (Mobile)
 
 <p align="center">
-	<img alt="feedget image" src="https://github.com/guycanella/feedget-app/tree/master/assets/feedget.png" />
+	![feedget image](https://github.com/guycanella/feedget-app/tree/master/assets/feedget.png)
 </p>
 
 ## Description
@@ -12,10 +12,10 @@ Vercel and Railway for front- and back-end deployment, resepctively. **Versions:
 
 ## Technologies
 
-- [] React Native developing
-- [] Typescript
-- [] Expo
-- [] Expo Google Fonts
+- [ ] React Native developing
+- [ ] Typescript
+- [ ] Expo
+- [ ] Expo Google Fonts
 
 ## Getting started
 
