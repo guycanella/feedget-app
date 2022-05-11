@@ -1,12 +1,14 @@
 
-# Feedget App (Mobile)
+# Feedget App (Feedback Widget - Mobile)
 
 ![feedget image](assets/feedget.png)
 
 ## Description
 
-Widget for sending feedbacks. Project developed with React Native for front-end, Prisma for back-end, and Mailtrap.oi to test the email sending. 
-Vercel and Railway for front- and back-end deployment, resepctively. **Versions:** desktop and mobile.
+Widget for sending feedbacks. Project developed with React Native for front-end, Prisma for back-end, and Mailtrap.oi to test the email sending.
+Vercel and Railway for front- and back-end deployment, resepctively.
+
+**Versions:** desktop and mobile.
 
 ## Technologies
 
@@ -20,5 +22,11 @@ Vercel and Railway for front- and back-end deployment, resepctively. **Versions:
 Use **yarn** or **npm install** to install the dependencies and then start the project:
 
 ```cl
-expo start
+yarn start
+```
+
+or
+
+```cl
+npm run start
 ```
