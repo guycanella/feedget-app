@@ -1,7 +1,6 @@
-
 # Feedget App (Feedback Widget - Mobile)
 
-![feedget image](assets/feedget.png)
+![feedget image](assets/feedget2.png)
 
 ## Description
 
